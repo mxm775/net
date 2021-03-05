@@ -281,8 +281,7 @@ G+动画乐园 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225785/
 成龙历险记,http://kuqq.tk/00/huya.php?id=11352946
 中华小当家,http://kuqq.tk/00/huya.php?id=11342413
 茶啊二中,http://kuqq.tk/00/huya.php?id=11213191
-动画1,
-http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
+动画1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
 动画2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
 黑莓动画,http://112.17.40.7/PLTV/88888888/224/3221226654/index.m3u8#http://39.134.7.247/000000001000/6497762188035533951/1.m3u8
 家庭卡通,http://itv.ahau.edu.cn/hls/hls77a30.m3u8#http://hdtv.haust.edu.cn/hls/hls77a30.m3u8
@@ -916,9 +915,9 @@ NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/
 游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8#http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 游戏,http://112.17.40.139/PLTV/88888888/224/3221226481/index.m3u8
 记号,#genre#
-纯享4K 20M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
-芒果TV 15M2160,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-回忆经典小品,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1277397160_avc.m3u8
+纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
+芒果TV,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
+经典小品,http://tx.liveplay.live.fanxing.com/live/fx_hifi_1277397160_avc.m3u8
 春晚小品,http://121.12.115.14/tx.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1_2000.m3u8
 逗乐小品,http://121.12.115.14/tx.hls.huya.com/src/1449588790-1449588790-6225936445698211840-2847699106-10057-A-0-1_2000.m3u8
 城市剧场,http://home.lpfcdn.com:4000/udp/235.254.199.74:7980
