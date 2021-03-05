@@ -567,8 +567,6 @@ KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.
 黑莓动画,http://117.148.187.51/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228998/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225744/index.m3u8
-求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8 
-动物HD,http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 黑莓电竞,http://112.17.40.140/PLTV/88888888/224/3221226724/index.m3u8
 黑莓电竞,http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229678/index.m3u8
 黑莓电竞,http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229059/index.m3u8
@@ -576,21 +574,14 @@ KiD动画,http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.
 黑莓电竞,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225633/index.m3u8
-动画轮播,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229660/index.m3u8
-动画2HD,http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
 游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226187/index.m3u8
 北京少儿,http://ivi.bupt.edu.cn/hls/btv10.m3u8
-动漫电影,http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 云南少儿,http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
-经典動漫①,http://106.54.30.243/dl/YY.php?t=1349469149
-經典動漫②,http://106.54.30.243/dl/YY.php?t=1353098382
 北京IPTV淘BABY,http://39.135.238.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 G+动画乐园 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225785/01.m3u8?fmt=ts2hls
-CCTV-14,http://111.20.45.153/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226232/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-14/index.m3u8?IAS
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8#http://39.134.7.247/000000001000/5201381050640253101/1.m3u8#http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000080
 哈哈卡通,http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8#http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8#http://39.134.7.247/000000001000/5101217554085087042/1.m3u8
 优漫卡通,http://39.134.7.247/000000001000/5574405527570022182/1.m3u8
-嘉佳卡通,http://39.130.215.166:6410/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
 卡酷少儿,http://39.135.238.64/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
 动漫秀场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8#http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 金鹰卡通,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227018/index.m3u8#http://39.134.7.247/000000001000/5201381050640253101/1.m3u8#http://luotuo.ycchenrong.cn/dl/woniu.php?id=10000080
@@ -598,22 +589,7 @@ CCTV-14,http://111.20.45.153/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226
 优漫卡通,http://39.134.7.247/000000001000/5574405527570022182/1.m3u8
 嘉佳卡通,http://39.130.215.166:6410/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
 卡酷少儿,http://39.135.238.64/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226558/1.m3u8
-动漫秀场,http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225977/3.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8#http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-重庆少儿,http://daole.f3322.org:8888/udp/235.254.199.137:7980#http://daole.f3322.org:8888/udp/235.254.197.110:7980#http://home.lpfcdn.com:4000/udp/235.254.199.137:7980#http://home.lpfcdn.com:4000/udp/235.254.197.110:7980
-成都少儿,http://live.826pc.com/cdtv/live.php?id=6
-北京IPTV淘BABY,http://39.135.238.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-G+动画乐园 HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225785/01.m3u8?fmt=ts2hls
-天津少儿,http://notwhy.f3322.net:5000/udp/225.1.1.125:5002
-甘肃少儿,http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
-河北少儿,http://live6.plus.hebtv.com/sekjsl/sd/live.m3u8
-江西少儿,http://39.135.138.6:6610/PLTV/88888888/224/3221225577/2/index.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-广东少儿,http://www.ldiptv.xyz/daili/gdtv.php?id=54
-深圳少儿,http://www.ldiptv.xyz/daili/sztv.php?id=7#http://www.wodedianshi.com/QQ860001680/sztv.php?id=7#http://bg7cattt.xyz/sztv.php?id=7
-福建少儿,rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
-动画2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227036/index.m3u8
-黑莓动画,http://112.17.40.7/PLTV/88888888/224/3221226654/index.m3u8#http://39.134.7.247/000000001000/6497762188035533951/1.m3u8
-纪录,#genre#
+纪实,#genre#
 求索纪录,http://39.135.135.70/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8 
 求索纪录,http://117.148.187.46/PLTV/88888888/224/3221226610/index.m3u8
