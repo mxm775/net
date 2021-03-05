@@ -1,22 +1,3 @@
-常看,#genre#
-NEW TV悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-NEW TV喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
-NEW TV电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
-iHot爱喜剧,http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHot爱悬疑,http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHot爱科幻,http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHot爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHot亚洲影院,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHot欧美影院,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-iHot爱院线,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/index.m3u8?fmt=ts2hls
-iHot爱科幻,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/index.m3u8?fmt=ts2hls
-iHot爱喜剧,http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/index.m3u8?fmt=ts2hls
-凤凰中文 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
-凤凰资讯 10M720,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
-有线新闻台,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
-无线新闻台,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e
-翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282
-now新闻台,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
 iHoT,#genre#
 iHot爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHot爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -1026,6 +1007,7 @@ TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otyp
 有线新闻台,http://125.89.166.215:80/live-hwcdn.utvlive.top/live/fe19cd44717842fea90503d10aa7bab9/543b4d76d8614cf49194abe9db521736-1.m3u8
 无线新闻台,p5p://0198.02686.cc:16871/5d1a69dc000d64b611be7bef5757286e
 翡翠台,p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282
+now新闻台,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
 天映经典HD,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 全佳频道HD,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 双星频道HD,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
