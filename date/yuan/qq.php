@@ -1728,6 +1728,43 @@ NDTVINDIA,p2p://860825993:18912/5b140a87000dc92517d6be2f7ee45257.ts
 News18,p2p://860825993:18912/5b140a88000efa2e17d6c2654a1d3a44.ts
 TEN1,p2p://860825993:18912/5b140a84000aafa217d6b1ac4c80417b.ts
 歌曲,#genre#
+伤我你疼吗,https://vd3.bdstatic.com/mda-kc150vxtx26bvbs3/hd/mda-kc150vxtx26bvbs3.mp4
+站着等你三千年,http://em.21dtv.com/songs/60170285.mkv
+等一分钟,https://vd2.bdstatic.com/mda-icckcuqiztyipcs4/hd/mda-icckcuqiztyipcs4.mp4?auth_key=1564148577-0-0-7dae73c673a7d3473f1bf3ab567de59e&bcevod_channel=searchbox_feed&pd=bjh&abtest=all
+为了爱梦一生,https://vd2.bdstatic.com/mda-ia8checbzes51pbe/sc/mda-ia8checbzes51pbe.mp4?auth_key=1564537474-0-0-771bc77885297f225f25dd7a5b52459d&bcevod_channel=searchbox_feed&pd=bjh&abtest=all
+微信惹的祸,https://vd2.bdstatic.com/mda-iavkmr1nwfk9ykpy/hd/mda-iavkmr1nwfk9ykpy.mp4?auth_key=1564380342-0-0-f6b59799aa85823ce2751d47c4c0c584&bcevod_channel=searchbox_feed&pd=bjh&abtest=all
+多年以后,https://vd4.bdstatic.com/mda-jfqf35hpqr1qzivt/sc/mda-jfqf35hpqr1qzivt.mp4
+干就完了,https://vdse.bdstatic.com/192be3f355f003bbbd595f4d491978a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F9400bc83053635e8ae8645c2fd5d3c8ca0c4c6602f7988cdb4ada4152aa1cafb
+手心里的温柔,https://vd3.bdstatic.com/mda-ictnmkgznmtarvay/sc/mda-ictnmkgznmtarvay.mp4?auth_key=1564031322-0-0-595baf0353f23ddc04871489a033c842&bcevod_channel=searchbox_feed&pd=bjh&abtest=allp4?auth_key=1564148577-0-0-7dae73c673a7d3473f1bf3ab567de59e&bcevod_channel=searchbox_feed&pd=bjh&abtest=all
+为了爱梦一生,https://vd2.bdstatic.com/mda-ia8checbzes51pbe/sc/mda-ia8checbzes51pbe.mp4?auth_key=1564537474-0-0-771bc77885297f225f25dd7a5b52459d&bcevod_channel=searchbox_feed&pd=bjh&abtest=all
+微信惹的祸,https://vd2.bdstatic.com/mda-iavkmr1nwfk9ykpy/hd/mda-iavkmr1nwfk9ykpy.mp4?auth_key=1564380342-0-0-f6b59799aa85823ce2751d47c4c0c584&bcevod_channel=searchbox_feed&pd=bjh&abtest=all
+多年以后,https://vd4.bdstatic.com/mda-jfqf35hpqr1qzivt/sc/mda-jfqf35hpqr1qzivt.mp4
+干就完了,https://vdse.bdstatic.com/192be3f355f003bbbd595f4d491978a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F9400bc83053635e8ae8645c2fd5d3c8ca0c4c6602f7988cdb4ada4152aa1cafb
+花桥流水,http://em.21dtv.com/songs/60006910.mkv
+酒醉以后,http://listen.9sing.cn///2017/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E8%88%9E%E6%9B%B2%E8%A7%86%E9%A2%91/2017/2017-09/2017-09-11/Avi_%E8%BD%A6%E8%BD%BDMV%E9%AB%98%E6%B8%85%E6%B3%B3%E8%A3%85%E6%B3%A2%E6%B6%9B%E8%83%B8%E6%B6%8C%E3%80%90%E9%85%92%E9%86%89%E4%BB%A5%E5%90%8E%E3%80%91%E6%80%A7%E6%84%9F%E5%A4%A7%E7%BE%8E%E5%A6%9E%E5%86%99%E7%9C%9F%E8%A7%86%E9%A2%91DJ%E8%88%9E%E6%9B%B2.mp4
+愛是辣舞,http://listen.9sing.cn///2017/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E8%88%9E%E6%9B%B2%E8%A7%86%E9%A2%91/2017/2017-09/2017-09-11/Avi_%E7%BE%8E%E5%A5%B3%E8%84%B1%E8%BA%AB%E8%A7%86%E9%A2%91%E9%AB%98%E6%B8%85MV_%E8%B4%BE%E5%A9%B7%E5%A9%B7_%E7%88%B1%E6%98%AF%E8%BE%A3%E8%88%9E_%E8%BD%A6%E8%BD%BDMV%E8%A7%86%E9%A2%91.mp4
+劲爆Dj,http://shiguang.80dj.cn/video/2020/02/21/m3u8/vzWdam7WGCEx4cN5180X/T9QK5.m3u8
+国外dj,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+有多少像我这样的女人,https://dj.djyyy.com:446/hls/spsj/2020/04/28/11146/playlist.m3u8
+隔壁的泰山,https://dj.djyyy.com:446/hls/spsj/20181011/10452/playlist.m3u8
+千纸鹤,https://dj.djyyy.com:446/hls/spsj/2019/11/02/10782/playlist.m3u8
+爱是你眼里的一首情歌,https://dj.djyyy.com:446/hls/spsj/2020/04/28/11097/playlist.m3u8
+决别酒,https://dj.djyyy.com:446/hls/spsj/2020/04/28/11162/playlist.m3u8
+我的老婆,http://listen.9sing.cn/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-03%2F2020-03-09%2F%5BMp4%5D%E6%88%91%E7%9A%84%E8%80%81%E5%A9%86dj%5B%E6%B1%AA%E5%88%9A%5DDJ%E4%BD%95%E9%B9%8F-%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+贴身恃卫,http://em.21dtv.com/songs/60110002.mkv
+你的过去我不介意DJ,http://shiguang.80dj.cn/video/2018/08/07/m3u8/9ZvH7jqnf8qK35Sxt74A/5AlAy.m3u8
+现代爱情故事-DJ,http://shiguang.80dj.cn/video/2019/11/07/m3u8/4BzKbO9xp2jR7jH2wl4m/YqGKk.m3u8
+多年以后,http://em.21dtv.com/songs/60173759.mkv
+酒醉的蝴蝶,https://vd3.bdstatic.com/mda-jh79973acytsp27p/hd/mda-jh79973acytsp27p.mp4?pd=20&vt.mp4
+不一样的美,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmfvL9QUolKvHtQE.mp4
+我好傻相信永久,https://vd3.bdstatic.com/mda-kc0av64a29uisjsv/hd/mda-kc0av64a29uisjsv.mp4
+惜别的海岸,https://vd3.bdstatic.com/mda-kdaexfnmpamujhue/v1-cae/hd/mda-kdaexfnmpamujhue.mp4
+如果就这么老了,https://vd3.bdstatic.com/mda-ihgp2uhhxrqktx2r/hd/mda-ihgp2uhhxrqktx2r.mp4
+下定决心离开你,https://vd3.bdstatic.com/mda-jmeu12y1h46vk3vp/hd/mda-jmeu12y1h46vk3vp.mp4?pd=19&vt=1
+宝贝对不起,https://vd3.bdstatic.com/mda-jh0ga74cr0kp07vb/hd/mda-jh0ga74cr0kp07vb.mp4?pd=19&vt=1
+这几部歌曲,https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
+刀郎歌曲精编12首合集,http://resource.yaokan.sogoucdn.com/video/fef0/453/e45305e282011da6b7ca27b016c5a73a.mp4
+经典粤语,https://kvideo01.youju.sohu.com/503792bf-f1a5-4a2e-96eb-0fa55b0326a72_0_0.mp4
 泳衣 Ⅰ 告诉我你没有错,http://listen.9sing.cn///2019/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2019-08/2019-08-31/[Mp4]%E5%91%8A%E8%AF%89%E4%BD%A0%E6%88%91%E6%B2%A1%E6%9C%89%E9%94%99_%E4%B8%81%E7%B4%AB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E5%86%99%E7%9C%9FDJ%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 泳衣 Ⅰ 今夜你要喝醉,http://listen.9sing.cn///2017/%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91/DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91/2018/2018-09/2018-09-30/[Avi]%E4%BB%8A%E5%A4%9C%E4%BD%A0%E8%A6%81%E5%96%9D%E9%86%89-%E5%BC%A0%E5%86%AC%E7%8E%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E6%B3%B3%E8%A3%85%E8%A7%86%E9%A2%91[%E7%8B%AC].mp4
 泳衣 Ⅰ 连名带娃,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-12%2F%E8%BF%9E%E5%90%8D%E5%B8%A6%E5%A7%93-%E6%96%87%E6%85%A7%E5%A6%82-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E5%B1%95%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
