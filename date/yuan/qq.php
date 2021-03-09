@@ -1,4 +1,5 @@
 常看,#genre#
+台球,http://home.lpfcdn.com:4000/udp/235.254.199.92:7980
 台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226348/index.m3u8
 CCTV台球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1
 CCTV台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1#http://itv.ahau.edu.cn/hls/hls184a574.m3u8
@@ -15,7 +16,7 @@ TVBS新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=tvbsxwt#http://qj.yyrj
 东森新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=dsxw#http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=27
 军事评论,http://39.134.115.163:8080/PLTV/88888910/224/3221225757/index.m3u8
 
-IPTV,#genre#
+央视,#genre#
 8M高清
 CCTV1,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8?IAS
 CCTV2,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-2/index.m3u8?IAS
