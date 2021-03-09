@@ -420,9 +420,21 @@ SiTV游戏世界,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8
 SiTV都市剧场,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
 SiTV东方影视,http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
 SiTV五星体育,http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
-Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
-生活时尚HD,http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
-
+SiTVY + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
+SiTV生活时尚HD,http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
+SiTV动漫秀场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
+SiTV动漫秀场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227021/index.m3u8
+SiTV极速汽车,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8
+SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
+SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8
+SiTV游戏风云,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
+SiTV生活时尚,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
+SiTV七彩戏剧,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227025/index.m3u8
+SiTV东方财经,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8
+SiTV极速汽车,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227052/index.m3u8
+SiTV法治天地,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226143/index.m3u8
+SiTV法治天地,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227118/index.m3u8
+SiTV金色频道,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227126/index.m3u8
 CIBN综合,http://v.iam7.cn/iptv/cibn.php?code=DianJing
 CIBN新知,http://v.iam7.cn/iptv/cibn.php?code=ZongHe
 CIBN怡家,http://v.iam7.cn/iptv/cibn.php?code=JiaoYu
@@ -919,12 +931,12 @@ DOTA2,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id==dota2
 凤凰电影,rtmp://58.200.131.2:1935/livetv/fhdy
 澳门莲花,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 澳门莲花,http://3085709961.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=miAAAO3zQ5tzv1wW&secondToken=secondToken%3AQIahe4pha48pO1295-tj-QFaYHU&streamid=lotustv%3Alotustv%2F5562e9e4d409d24c9600075c&v3=1
-澳门莲花,http://live-hls.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+HKCHD电影台,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 星级剧集台,http://hls.haokan.bdstatic.com/haokan/stream_bduid_31696503_0.m3u8
 星空卫视,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 亚视本港,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-TVB明珠,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,p5p://198.255.106.42:16871/5f378d9b0003c2e4417a53bb22d95282#p5p://0198.02686.cc:16871/5f378d9b0003c2e4417a53bb22d95282#P2p://198.255.74.56:41196/602fedf4000925c079fa37fa8f7a5539#P2p://198.255.74.56:41196/602fed74000f2b2379f84584f82e0abd
 now新闻台,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b#p5p://198.255.106.42:16871/5e565c070000cb6f2d78cad5c040fa7b#p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b
 J2,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=18#http://xiaojun.cyou/7108live/gt/xgindex.php?id=j2
