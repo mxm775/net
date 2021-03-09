@@ -16,7 +16,7 @@ TVBS新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=tvbsxwt#http://qj.yyrj
 东森新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=dsxw#http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=27
 军事评论,http://39.134.115.163:8080/PLTV/88888910/224/3221225757/index.m3u8
 
-央视,#genre#
+央视卫视,#genre#
 8M高清
 CCTV1,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-1/index.m3u8?IAS
 CCTV2,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-2/index.m3u8?IAS
@@ -171,7 +171,6 @@ CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1
 中央新影-新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
 中央新影-中学生,http://itv.ahau.edu.cn/hls/hls184a536.m3u8
 中央新影-发现之旅,http://39.134.24.202/PLTV/88888888/224/3221225879/index.m3u8#http://223.110.241.150:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/#http://183.207.248.71/gitv/live1/G_FAXIANZL/G_FAXIANZL
-卫视,#genre#
 纯享4K ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 芒果TV ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
 北京移动CDN
@@ -349,7 +348,7 @@ CCTV世界地理,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1
 重庆卫视,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/chongqingstv/index.m3u8?IAS
 黑龙江卫视,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/heilongjiangstv/index. m3u8?IAS
 
-iHoT,#genre#
+数字频道,#genre#
 iHot爱院线,http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHot爱世界,http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 iHot爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -427,7 +426,7 @@ iHot电子竞技,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8888
 iHot精品剧场,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/01.m3u8?fmt=ts2hls
 iHot风尚音乐,http://39.134.176.154/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/01.m3u8?fmt=ts2hls
 iHot高清娱乐,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575/01.m3u8?fmt=ts2hls
-SiTV,#genre#
+
 SiTV动漫秀场,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV劲爆体育,http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
 SiTV极速汽车,http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
@@ -471,7 +470,7 @@ CIBN经典乐场,http://v.iam7.cn/iptv/cibn.php?code=162
 CIBN古典音乐,http://v.iam7.cn/iptv/cibn.php?code=78
 CIBN老陈音谈,http://v.iam7.cn/iptv/cibn.php?code=136
 CIBN莎翁戏剧,http://v.iam7.cn/iptv/cibn.php?code=68
-新TV,#genre#
+
 北京移动CDN
 超级电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
 超级电影,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
@@ -571,7 +570,7 @@ NewTV云南,http://39.134.115.163:8080/PLTV/88888910/224/3221226188/index.m3u8
 古装剧场,http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 家庭剧场,http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
 明星大片,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
-少儿,#genre#
+幼儿动漫,#genre#
 CCTV-14,http://111.20.45.153/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226232/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8#http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-14/index.m3u8?IAS
 CIBN东方教育,https://live.elibei.com/tv/channel/cibn?id=11
 CIBN幼儿绘画,https://live.elibei.com/tv/channel/cibn?id=17
@@ -618,8 +617,7 @@ IPTV淘BABY,http://39.135.238.86/otttv.bj.chinamobile.com/TVOD/88888888/224/3221
 哈哈卡通,http://117.136.154.98/PLTV/88888888/224/3221225790/index.m3u8#http://39.135.253.53/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226139/3.m3u8#http://39.134.7.247/000000001000/5101217554085087042/1.m3u8
 优漫卡通,http://39.134.7.247/000000001000/5574405527570022182/1.m3u8
 嘉佳卡通,http://39.130.215.166:6410/gitv_live/G_JIAJIA/G_JIAJIA.m3u8
-
-影视,#genre#
+影视频道#genre#
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC高清电影,http://hdtv.haust.edu.cn/hls/chchd.m3u8
@@ -672,7 +670,7 @@ UTV第一电影,http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com
 星影,http://home.lpfcdn.com:4000/udp/235.254.199.101:7980
 光影,http://home.lpfcdn.com:4000/udp/235.254.199.91:7980
 
-优酷,#genre#
+奇艺优酷,#genre#
 名侦探柯南,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380158422
 杨幂,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380717822
 江苏卫视,http://cdn.chxjon.cn/iptv/QQ582185381/iqiyi.php?id=380175922
@@ -922,7 +920,7 @@ DOTA2,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id==dota2
 周润发古天乐,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yyzrfgtl
 刘德华刘青云,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yypldhlqy
 
-国外,#genre#
+国外频道,#genre#
 凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰资讯,http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
@@ -1094,7 +1092,7 @@ TVBS欢乐台,P2p://198.255.74.56:41196/602fedd70001a13279f9c4c5af8ddeb2
 TVBS,P2p://198.255.74.56:41196/602fedd20008090e79f9b2e121140cfd
 JET综合台,P2p://198.255.74.56:41196/602fedcc00036d1c79f99a43684d9b0c
 台视综合,P2p://198.255.74.56:41196/602fedcc000288af79f99a08546c851e
-记号,#genre#
+纪实其它,#genre#
 求索纪录,http://39.135.135.70/PLTV/88888888/224/3221225713/index.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8 
 求索纪录,http://117.148.187.46/PLTV/88888888/224/3221226610/index.m3u8
@@ -1206,7 +1204,7 @@ FOX SPORTS[HD],mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df.ts
 爱电竞,http://39.134.182.236/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230029/01.m3u8
 游戏风云,http://39.134.39.39/PLTV/88888888/224/3221226337/index.m3u8#http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 游戏,http://112.17.40.139/PLTV/88888888/224/3221226481/index.m3u8
-歌曲,#genre#
+音乐视听,#genre#
 音乐石榴,http://121.12.115.14/tx.hls.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1_2000.m3u8
 新歌速递,http://121.12.115.14/tx.hls.huya.com/src/1099531740262-1099531740262-86382469611257856-2199063603980-10057-A-0-1_2000.m3u8
 齐音乐,http://hls.haokan.bdstatic.com/haokan/stream_bduid_5114425148_0.m3u8
