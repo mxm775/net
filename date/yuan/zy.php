@@ -54,32 +54,6 @@ Best电影,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs
 影视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 影视2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
 影视3,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
-4K,#genre#
-CCTV4K,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
-纯享4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8#http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
-南国都市,http://116.199.5.52:8114/00000000/index.m3u8?3Fsv_chan_hls_se_idx=123&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-广东综艺,http://116.199.5.52:8114/00000000/index.m3u8?3Fsv_chan_hls_se_idx=77&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-北京4K,http://221.179.217.94/PLTV/88888888/224/3221226550/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
-爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-芒果4K,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226887/index.m3u8
-欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8#http://183.207.248.71/gitv/live1/HD-15M-2160P-jshuanxiaojc/HD-15M-2160P-jshuanxiaojc#http://39.134.176.149/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230739/index.m3u8
-美丽中国4K,https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/9891cea600df4e8a83851b1b1ce23194/8000.m3u8
-BEST4K,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-外国,#genre#
-日本24h新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-Australia Channel,https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-CBN News,https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
-Sky News,https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true#https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-BBC News UK,http://51.52.156.22:8888/http/004
-法国24台,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-墨西哥卫视,http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-俄罗斯IZ,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-荷兰 West,http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-俄罗斯时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-NHK,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-CNN,http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
-FOX NEWS,http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 
 测试,#genre#
 有线电影,P2p://198.255.74.56:41196/602fed7400084a5e79f843c185978a32
