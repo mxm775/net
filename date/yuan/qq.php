@@ -922,7 +922,7 @@ DOTA2,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id==dota2
 周润发古天乐,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yyzrfgtl
 刘德华刘青云,http://cdn.chxjon.cn/iptv/QQ582185381/youku.php?id=yypldhlqy
 
-香港,#genre#
+国外,#genre#
 凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 凤凰资讯,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰资讯,http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/index.m3u8
@@ -951,14 +951,14 @@ now新闻台,p5p://0198.02686.cc:16871/5e565c070000cb6f2d78cad5c040fa7b#p5p://19
 J2,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=18#http://xiaojun.cyou/7108live/gt/xgindex.php?id=j2
 無綫新聞,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=13#http://xiaojun.cyou/7108live/gt/xgindex.php?id=wxxwt
 有線新聞,http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=6#http://xiaojun.cyou/7108live/gt/xgindex.php?id=yxxwt
-湾湾,#genre#
+
 中天新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=ztxw#http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=26
 东森新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=dsxw#http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=27
 TVBS新聞,http://xiaojun.cyou/7108live/tw/twindex.php?id=tvbsxwt#http://qj.yyrjdp.cn/jiuban/iptv5526.php?id=34
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-测试,#genre#
+
 HBOHD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 HBOSignat,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
 HBOHits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
