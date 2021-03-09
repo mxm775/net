@@ -440,7 +440,7 @@ SiTV东方影视,http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
 SiTV五星体育,http://39.134.39.39/PLTV/88888888/224/3221226178/index.m3u8
 Y + 剧场,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 生活时尚HD,http://39.134.168.91/PLTV/1/224/3221225498/index.m3u8
-CIBN,#genre#
+
 CIBN综合,http://v.iam7.cn/iptv/cibn.php?code=DianJing
 CIBN新知,http://v.iam7.cn/iptv/cibn.php?code=ZongHe
 CIBN怡家,http://v.iam7.cn/iptv/cibn.php?code=JiaoYu
@@ -1171,7 +1171,7 @@ JET综合台,P2p://198.255.74.56:41196/602fedcc00036d1c79f99a43684d9b0c
 武术世界,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=wssj 
 中华美食,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=zhmshd 
 足球频道,http://cdn.chxjon.cn/iptv/QQ582185381/gzyx.php?id=zqpd
-体育,#genre#
+
 CCTV-5,http://39.134.18.113/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8#http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8#http://223.110.241.150:6610/gitv/live1/G_CCTV-5-MD/G_CCTV-5-MD/#http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-5/index.m3u8?IAS
 CCTV5+,http://111.20.45.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8#http://223.110.241.150:6610/jsyd/live1/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD/#http://39.134.198.32:6410/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hdcctv05plus/index.m3u8?IAS#http://39.134.7.247/000000001000/1000000001000018504/1.m3u8
 CCTV高尔夫·网球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?ProgramID=&encrypt=1#http://kid.hfcatv.com.cn:13164/playurl?playtype=live&protocol=hls&accesstoken=R5F15C63AU30947030K77359BACI93B1EF78P8M2FAF228V0Z53085W162382CFCB4DC7EC&playtoken=31667LZMVCGFXDL10&verifycode=2000000576&rate=org&programid=4200000122.m3u8&ts=50&auth=no
