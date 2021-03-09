@@ -5,7 +5,6 @@ CCTV台球,http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1
 CCTV台球,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls#http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1#http://itv.ahau.edu.cn/hls/hls184a574.m3u8
 虎牙斯诺克,http://121.12.115.14/tx.hls.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1_2000.m3u8
 中式八球,http://121.12.115.14/tx.hls.huya.com/src/67198570-67198570-288615660487966720-134520596-10057-A-0-1_2000.m3u8
-CCTV13,http://39.134.198.34:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8?IAS
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰资讯,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8
 凤凰中文,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8#http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228608/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8#http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
